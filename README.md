@@ -104,4 +104,4 @@ The Image Finder App is open-source and distributed under the [MIT License](LICE
 
 ---
 
-Thank you for using the Image Finder App! If you have any questions or need further assistance, please don't hesitate to contact Hanu Singh at hanu.singh@example.com. Happy exploring! 📸
+Thank you for using the Image Finder App! If you have any questions or need further assistance, please don't hesitate to contact Hanu Singh at iknowaditya22@gmail.com. Happy exploring! 📸
